@@ -16,14 +16,16 @@ This analysis identifies **resource inefficiencies** and provides **data-driven 
 
 ## 📁 Dataset Overview
 
-**Size:** 20 features (columns) covering cloud infrastructure metrics  
-
 | Category | Key Columns |
 |-----------|--------------|
+| Domain | IT |
 | **Usage Metrics** | Required CPU Hours, Actual CPU Hours, CPU Utilization %, Storage Used GB |
 | **Financials** | Storage Cost $, Compute Cost $, Network Cost $, Total Cost $ |
 | **Operations** | Cloud Service, Region, Owner Team, Project Type, Service Category |
 | **Timeline** | Start Date, End Date |
+| Source | Kaggle |
+| Original Format	 | CSV (52,675 rows)   |
+
 
 ---
 
